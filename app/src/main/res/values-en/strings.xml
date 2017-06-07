@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="footer">Developer by: Paty</string>
+    <string name="hint_login">login</string>
+    <string name="hint_senha">password</string>
+    <string name="logar">Sign in</string>
+    <string name="titulo">Pizza</string>
+</resources>

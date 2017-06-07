@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="hint_login">Informe o Login</string>
+    <string name="hint_senha">Informe a Senha</string>
+    <string name="logar">Entrar</string>
+    <string name="txt_saudacao">Ola</string>
+    <string name="txt_escolhe_pizza">Escolha a(s) pizza(s)</string>
+    <string name="txt_pizza_atum">Atum</string>
+    <string name="txt_pizza_bacon">Bacon</string>
+    <string name="txt_pizza_calabresa">Calabresa</string>
+    <string name="txt_pizza_mussarela">Mussarela</string>
+    <string name="txt_tamanho_pizza">Tamanho da Pizza</string>
+    <string name="txt_tamanho_grande">Grande</string>
+    <string name="txt_tamanho_pequena">Pequena</string>
+    <string name="tamanho_media">Média</string>
+    <string name="txt_pagamento">Forma de Pagamento</string>
+    <string name="txt_extras">Extras</string>
+    <string name="calcular">Calcular</string>
+
+    <string name="txt_cartao">Cartão</string>
+    <string name="txt_vr">VR</string>
+    <string name="txt_cheque">Cheque</string>
+    <string name="txt_dinheiro">Dinheiro</string>
+
+</resources>
